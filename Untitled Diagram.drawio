@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T02:47:33.374Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="dDrqNKYfRw8TuUVs1GtD" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T02:49:16.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="mRyXGZxKi-OsHLdEdAk5" version="21.2.9" type="github">
   <diagram name="Page-1" id="GT2r_Ie_9v9kSXVyZrXS">
     <mxGraphModel dx="2319" dy="2167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,6 +22,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xae2bnC-y0Hw2hv78F9A-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EaQzSgWUycIN-Ay1f6l-6" target="Xae2bnC-y0Hw2hv78F9A-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xae2bnC-y0Hw2hv78F9A-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EaQzSgWUycIN-Ay1f6l-6" target="Xae2bnC-y0Hw2hv78F9A-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9EaQzSgWUycIN-Ay1f6l-6" value="Unicorn&lt;br&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -84,14 +87,14 @@
         <mxCell id="Xae2bnC-y0Hw2hv78F9A-26" value="Bundle/Chunk&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="740" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xae2bnC-y0Hw2hv78F9A-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="-210" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Xae2bnC-y0Hw2hv78F9A-30" value="Mini app Hrm&lt;br&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="520" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Xae2bnC-y0Hw2hv78F9A-33" value="Bundle/Chunk&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="730" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xae2bnC-y0Hw2hv78F9A-34" value="K&lt;a href=&quot;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=keycloak&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&quot;&gt;eycloak&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="-240" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
