@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T02:43:08.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="qoMjO93dXOgYXWB_Pz7X" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T02:43:40.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="s06uBhqnD2VyvbctW8IW" version="21.2.9" type="github">
   <diagram name="Page-1" id="GT2r_Ie_9v9kSXVyZrXS">
     <mxGraphModel dx="2319" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
             <mxPoint x="-500.6666666666665" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xae2bnC-y0Hw2hv78F9A-2" value="Order&lt;br&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xae2bnC-y0Hw2hv78F9A-2" value="Mini app &lt;br&gt;Order" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="520" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Xae2bnC-y0Hw2hv78F9A-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xae2bnC-y0Hw2hv78F9A-4">
@@ -52,10 +52,10 @@
         <mxCell id="Xae2bnC-y0Hw2hv78F9A-5" value="uni-design&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xae2bnC-y0Hw2hv78F9A-9" value="Report&lt;br&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xae2bnC-y0Hw2hv78F9A-9" value="Mini app &lt;br&gt;Report" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="510" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Xae2bnC-y0Hw2hv78F9A-10" value="Product&lt;br&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xae2bnC-y0Hw2hv78F9A-10" value="Mini app &lt;br&gt;Product" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="520" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Xae2bnC-y0Hw2hv78F9A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xae2bnC-y0Hw2hv78F9A-17">
